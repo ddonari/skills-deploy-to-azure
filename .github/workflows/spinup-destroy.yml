@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"East US"'
   ###############################################
-  ### GitHub username ddonari ###################
+  ### GitHub username ddonari 
   ###############################################
   AZURE_WEBAPP_NAME: ddonari-ttt-app
 
